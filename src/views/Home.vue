@@ -1,5 +1,9 @@
+<script setup>
+  import Section1 from '../components/Section1.vue';
+</script>
+
 <template>
     <div>
-        vue learning project
+        <Section1 />
     </div>
 </template>
